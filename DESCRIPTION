@@ -1,0 +1,10 @@
+Package: lauraspackage
+Title: Laura's Functions
+Version: 0.0.0.9000
+Authors@R: 
+    person("Laura", "March", , "lauragsmarch@gmail.com", role = c("aut", "cre"))
+Description: Laura's own created functions
+License: MIT + file LICENSE
+Config/roxygen2/version: 8.1.0
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
